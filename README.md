@@ -35,4 +35,9 @@ PID tuning for straighter paths
 Accurate 90° turns
 Real-time map logging
 
-Obstacle avoidance modul
+ Machine Learning and Computer Vision
+ We have leaf disease detection, weed detection based on image processing and soil fertility classification based on NPK sensor values via a well made streamlit app and fastapi backend 
+
+ NPK integration
+ This sensor will measure temperature, pH, soil moisture , electronic conductivity , nitrogen, potassium and phosphorus in real-time allowing it to give us soil abnormalities 
+ 
